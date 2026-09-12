@@ -1,0 +1,11 @@
+# Third-party data notice
+
+The bundled model_prices.json is a local cache of the model-pricing catalog
+maintained by LiteLLM. AgyToken refreshes it from:
+
+https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+
+The catalog remains subject to its upstream licensing and attribution terms.
+The MIT license in this repository applies only to material for which this
+project's author holds the necessary rights.
+

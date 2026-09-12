@@ -1,0 +1,11 @@
+# Packaged and compiled macOS products
+*.app/
+NativeApp/AgyToken
+.build/
+.swiftpm/
+
+# Python caches and local state
+__pycache__/
+*.py[cod]
+.DS_Store
+
